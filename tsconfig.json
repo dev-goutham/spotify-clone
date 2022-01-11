@@ -20,7 +20,8 @@
     "incremental": true,
     "baseUrl": "./src",
     "paths": {
-      "@/components/*": ["fronted/components/*"]
+      "@/components/*": ["fronted/components/*"],
+      "@/lib/*": ["lib/*"]
     }
   },
   "include": [
